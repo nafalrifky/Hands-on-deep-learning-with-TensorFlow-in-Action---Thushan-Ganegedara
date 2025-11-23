@@ -1,6 +1,5 @@
-# TensorFlow-in-Action---Thushan-Ganegedara
-
 # TensorFlow in Action — Thushan Ganegedara
+
 <img src="https://m.media-amazon.com/images/I/718-eOVqFiL._SL1500_.jpg">
 
 ---
